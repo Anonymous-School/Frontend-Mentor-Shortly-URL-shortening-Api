@@ -207,7 +207,7 @@
         font-size: 1.22222222222222rem;
     }
     .left{
-      background: url(Images/illustration-working.svg);
+      background: url(images/illustration-working.svg);
       background-size: cover;
       background-repeat: no-repeat;
       position: absolute;
@@ -242,7 +242,7 @@
         justify-content: space-between;
         align-items: center;
         margin: auto;
-        background: url(Images/bg-shorten-desktop.svg), var(--primary_2);
+        background: url(images/bg-shorten-desktop.svg), var(--primary_2);
         background-size: cover;
         background-repeat: no-repeat, repeat;
         border-radius: 0.555555555555556rem;
@@ -444,7 +444,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      background: url(Images/bg-boost-desktop.svg), var(--primary_2);
+      background: url(images/bg-boost-desktop.svg), var(--primary_2);
       background-repeat: no-repeat;
       background-size:cover;
       height: 14.6111111111111rem;
@@ -686,7 +686,7 @@
         height:30.2222222222222rem;
       }
       .sect2_main{
-        background: url(Images/bg-shorten-mobile.svg), var(--primary_2);
+        background: url(images/bg-shorten-mobile.svg), var(--primary_2);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 6.25rem -5rem;
@@ -727,7 +727,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background: url(Images/bg-boost-mobile.svg), var(--primary_2);
+        background: url(images/bg-boost-mobile.svg), var(--primary_2);
         background-repeat: no-repeat;
         background-size:cover;
         height: 14.6111111111111rem;
